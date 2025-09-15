@@ -1,0 +1,10 @@
+export { CloudMigrationTableFieldsConfig } from './CloudMigrationPageConfig';
+export { CartTableFieldsConfig, CartPageFilters } from './CartPageConfig';
+export { InformationMapTableFieldsConfig } from './InformationMap';
+export { StakeholdersTableFieldsConfig } from './Stakeholders';
+export { ApplicationsTableFieldsConfig } from './ApplicationsPageConfig';
+export { ValueStreamsTableFieldsConfig } from './ValueStreamsPageConfig';
+export { ProcessesTableFieldsConfig } from './ProcessesPageConfig';
+export { ServicesTableFieldsConfig } from './ServicesPageConfig';
+export { ProjectsTableFieldsConfig } from './ProjectsPageConfig';
+export { StrategiesTableFieldsConfig } from './strategiesPageConfig';

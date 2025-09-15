@@ -1,0 +1,12 @@
+export { getCloudMigrationData } from './cloudMigration';
+export { getCartRequest } from './cart';
+export { getInformationMapData } from './informationMap';
+export { getStakeholdersData } from './stakeholders';
+export { getApplications } from './applications';
+export { getValueStreams } from './valueStreams';
+export { getProcesses } from './processes';
+export { getServices } from './services';
+export { getTargetPlatforms } from './targetPlatforms';
+export { getStrategies, getProjects, getStrategiesProjects, getPojectsByCode } from './projects';
+export { getCapabilities } from './capabilities';
+export { getTechnologies, getApplicationsTechnologies } from './technologies';
